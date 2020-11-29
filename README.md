@@ -31,3 +31,5 @@ Note: You must share project code with some VCS (GitHub, bitbucket etc).
 - App follows MVVM architecture.
 - Firebase Firestore for storing User details.
 - Firebase Storage for storing User profile Images.
+- ViewPager2 for swipeable pages.
+- Scroll view for scrollable second page.
