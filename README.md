@@ -25,3 +25,9 @@ libraries.
 
 Evaluation will be based on the required & additional requirements.
 Note: You must share project code with some VCS (GitHub, bitbucket etc).
+
+***
+### Solution
+- App follows MVVM architecture.
+- Firebase Firestore for storing User details.
+- Firebase Storage for storing User profile Images.
